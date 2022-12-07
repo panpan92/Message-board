@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T02:56:14.781Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3jtf8FHMMm0SA597cSXU" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-07T06:16:06.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ucCdW1_FHPeTR0YOVf4M" version="20.5.3" type="github" pages="2">
   <diagram name="概况" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="2012" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -169,10 +169,7 @@
           <mxGeometry x="30" y="50" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="epty7e3qU51lQaDPQUOr-1" value="结果表" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="585" width="470" height="430" as="geometry" />
-        </mxCell>
-        <mxCell id="epty7e3qU51lQaDPQUOr-20" value="......" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="epty7e3qU51lQaDPQUOr-1">
-          <mxGeometry x="330" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="40" y="585" width="470" height="235" as="geometry" />
         </mxCell>
         <mxCell id="dMh2QVueYiGRD0z039l3-34" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;Ds_XXX&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Id&lt;/td&gt;&lt;td&gt;uniqueId&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Date&lt;/td&gt;&lt;td&gt;foreignKey&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CompoundCode&lt;br&gt;&lt;/td&gt;&lt;td&gt;院区&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;其他统计字段&lt;br&gt;.......&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" vertex="1" parent="epty7e3qU51lQaDPQUOr-1">
           <mxGeometry x="250" y="70" width="180" height="90" as="geometry" />
@@ -185,6 +182,12 @@
         </mxCell>
         <mxCell id="ucJEH8xJAY9CjrB2hMfq-16" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;Log&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Id&lt;/td&gt;&lt;td&gt;uniqueId&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Message&lt;br&gt;Date&lt;/td&gt;&lt;td&gt;foreignKey&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;fieldname&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" vertex="1" parent="ucJEH8xJAY9CjrB2hMfq-10">
           <mxGeometry x="30" y="65" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ucJEH8xJAY9CjrB2hMfq-19" value="&lt;h1 style=&quot;text-align: left;&quot;&gt;1.指标&amp;amp;元素的计算方式 ? table 计算?&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="870" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucJEH8xJAY9CjrB2hMfq-21" value="&lt;h1 style=&quot;&quot;&gt;2.屏幕1拆分&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="920" width="450" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
